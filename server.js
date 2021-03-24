@@ -1,7 +1,5 @@
 var express=require('express');
 var mysql=require('mysql');
-// var User=require('./Models/User');
-// var Product=require('./Models/Product');
 var bodyparser=require('body-parser');
 var db=require('./Mysetup/myurls');
 var app=express();
